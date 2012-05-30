@@ -14,11 +14,13 @@ External References
 Process all records from a specified table
 ------------------------------------------
 
-```javascript
+``` js
+
 var tableName = "incident";
 var target = new GlideRecord(tableName);
 target.query();   // Issue the query to the database to get all records
 while (target.next()) {   
   // add code here to process the incident record
 }
+
 ```
