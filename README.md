@@ -1,28 +1,42 @@
 snow-open-dev-standards
 =======================
 
-Open development standards for Service-now.com 
+Introduction
+------------
 
--- [ as per:  http://snowdevstandards.blogspot.com/2012/05/development-standards-kicking-it-off.html ]: 
+Initial motivation can be found at the following [BLOG: Open development standards for Service Now](http://snowdevstandards.blogspot.com/2012/05/development-standards-kicking-it-off.html): 
 
-Over the past 18 months, I've had the pleasure and absolute horror of working with Service Now.  Don't get me wrong, it's a great product and offers many superior features -- 
-above and beyond much of the competition in that space at the moment.  I like it so much, I even presented about a cool capability we developed at Knowledge 11 in Frankfurt.  
+Goal
+----
 
-The extensibility and flexibility that separates Service Now from the rest of the field is also what can cripple it.  You are empowered to develop what you like, however you like.  
-What was sufficient 18 months ago, or even 12 months ago, isn't sufficient now.
+Make available an open set of standards / framework where like minded individuals can contribute development standards and best practices related to the
+[Service Now](http://www.service-now.com/) platform.  
 
-In 12 months, Javascript as a language, and the Javascript engine in the various browsers have evolved at an incredible pace, allowing some pretty cool things.  As such, standards 
-evolve, best practices change ... and what you had is now no longer acceptable.
+Related Technologies
+--------------------
 
-My goal -- gather a group of like minded individuals and document an open set of development standards and best practices.
+* JavaScript
+* Apache Jelly
+* Glide
 
-- Javascript is open source
-- Apache Jelly is open source
+The above capabilities exist within Service Now and directly influence how you can create, or cause significant performance degradation your [Service Now](http://www.service-now.com/) instance.
 
-Two capabilities that exist within Service Now that influence how you can create, or cause significant performance degradation your Service Now instance.
 
-To manage people that are interested, I've created a Twitter List [ https://twitter.com/#!/sdolgy/snow-open-dev-stds ] -- Feel free to get in touch
+Contributors
+------------
+
+To manage people that are interested, or who are contributing, I've created a Twitter List [Open development standards for Service Now](https://twitter.com/#!/sdolgy/snow-open-dev-stds) 
+
+
+Misc
+----
+
+For everything else, feel free to get in touch or use the various [GitHub](https://github.com/) features to interact:
+
+* [Fork It!](https://github.com/sdolgy/snow-open-dev-standards/fork_select)
+* [ Create an Issue](https://github.com/sdolgy/snow-open-dev-standards/issues)
+
 
 -sd
-https://twitter.com/sdolgy
+[@sdolgy](https://twitter.com/sdolgy)
 

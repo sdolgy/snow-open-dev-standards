@@ -1,9 +1,8 @@
-Glide Style Guide
-=================
+Open Development Standards for Glide [ServiceNow] -- Style Guide
+================================================================
 
 Introduction
 ------------
-Something...
 
 
 External References
